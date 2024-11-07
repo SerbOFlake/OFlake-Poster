@@ -1,0 +1,5 @@
+Just example
+{$placeholder}
+lolz:D
+
+👻 By : https://github.com/SerbOFlake/OFlake-Poster
