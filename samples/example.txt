@@ -1,5 +1,5 @@
-Just example
-{$placeholder}
-lolz:D
+👻 By : https://github.com/SerbOFlake/OFlake-Poster
+
+Auto or by-hands: {$placeholder}
 
 👻 By : https://github.com/SerbOFlake/OFlake-Poster
